@@ -1,2 +1,2 @@
-# Calculadora De IMC
-Primeiro repositório Git e GitHub
+# Calculadora de IMC
+ Primeiro repositorio Git e GitHub
