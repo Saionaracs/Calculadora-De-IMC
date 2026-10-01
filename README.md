@@ -34,7 +34,7 @@ Conceitos praticados
 
 Como executar
 
-1. Clone este repositório:
+1. Copie este repositório:
 
 ```bash
 git clone https://github.com/Saionaracs/Calculadora-De-IMC.git
