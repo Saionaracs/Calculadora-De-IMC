@@ -1,8 +1,8 @@
-Calculadora de IMC
+## Calculadora de IMC
 
 Projeto desenvolvido em Python durante meus estudos de Análise e Desenvolvimento de Sistemas (ADS), com o objetivo de praticar conceitos básicos de lógica de programação.
 
-Sobre o projeto
+##  Sobre o projeto
 
 A Calculadora de IMC solicita o nome, peso e altura do usuário, realiza o cálculo do Índice de Massa Corporal (IMC) e apresenta uma classificação de acordo com o resultado.
 
@@ -14,13 +14,13 @@ Este projeto também representa meu primeiro contato prático com Git e GitHub p
 - Classificação do resultado por meio de estruturas condicionais;
 - Exibição do resultado no terminal.
 
-Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
 - Git
 - GitHub
 
-Conceitos praticados
+##  Conceitos praticados
 
 - Entrada e saída de dados;
 - Variáveis;
@@ -30,7 +30,7 @@ Conceitos praticados
 - Versionamento de código com Git;
 - Publicação de projeto no GitHub.
 
-Como executar
+##  Como executar
 
 1. Copie este repositório:
 
@@ -45,7 +45,7 @@ Este projeto foi desenvolvido como parte da minha formação em Análise e Desen
 
 Estou utilizando projetos práticos para desenvolver meus conhecimentos em programação, lógica e ferramentas utilizadas no desenvolvimento de software.
 
-👩‍💻 Autora
+## Autora
 
 Saionara Costa
 
