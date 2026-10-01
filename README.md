@@ -8,8 +8,6 @@ A Calculadora de IMC solicita o nome, peso e altura do usuário, realiza o cálc
 
 Este projeto também representa meu primeiro contato prático com Git e GitHub para versionamento e publicação de código.
 
-Funcionalidades
-
 - Solicitação do nome do usuário;
 - Entrada de peso e altura;
 - Cálculo do IMC;
@@ -38,15 +36,3 @@ Como executar
 
 ```bash
 git clone https://github.com/Saionaracs/Calculadora-De-IMC.git
-
-Objetivo de aprendizagem
-
-Este projeto foi desenvolvido como parte da minha formação em Análise e Desenvolvimento de Sistemas e representa uma etapa inicial na construção do meu portfólio na área de desenvolvimento de software.
-
-Estou utilizando projetos práticos para desenvolver meus conhecimentos em programação, lógica e ferramentas utilizadas no desenvolvimento de software.
-
-👩‍💻 Autora
-
-Saionara Costa
-
-Estudante de Análise e Desenvolvimento de Sistemas.
